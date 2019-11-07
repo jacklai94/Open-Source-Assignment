@@ -1,0 +1,44 @@
+html, body {
+	width: 250px;
+	background-color: #F5DEB3;
+	position: relative;
+	font-family: monospace;
+	font-size: 12px;
+}
+
+p {
+	width: 240px;
+	white-space: pre-line;
+}
+
+b {
+	padding-left: 55px;
+}
+
+input {
+	width: 150px;
+	border-spacing: 4px;
+	border-color: transparent;
+}
+
+.text-input {
+	text-align: center;
+}
+
+.text-input button {
+	cursor:pointer;
+	background: #dcb874;
+  	border-style: solid;
+  	border-color: transparent;
+  	padding: 1px;	
+	border-radius: 4px;
+}
+
+button {
+	cursor:pointer;
+	background: #dcb874;
+  	border-style: solid;
+  	border-color: transparent;
+  	padding: 1px;	
+	border-radius: 4px;
+}
