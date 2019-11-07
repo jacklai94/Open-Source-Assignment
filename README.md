@@ -11,3 +11,7 @@
 07/11/2019 - LEE THEAM LEE uploaded stemmer folder.
 
 07/11/2019 - LEE THEAM LEE uploaded test folder.
+
+07/11/2019 - LEE THEAM LEE uploaded license file.
+
+07/11/2019 - LEE THEAM LEE uploaded manifest.json file 
