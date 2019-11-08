@@ -15,3 +15,5 @@
 07/11/2019 - LEE THEAM LEE uploaded license file.
 
 07/11/2019 - LEE THEAM LEE uploaded manifest.json file 
+
+08/11/2019 - LEE THEAM LEE added three buttons to get_meaning.html
