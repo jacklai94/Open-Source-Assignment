@@ -19,3 +19,5 @@
 08/11/2019 - LEE THEAM LEE deleted get_meaning.html
 
 08/11/2019 - LEE THEAM LEE uploaded a newer version of get_meaning.html
+
+08/11/2019 - LEE THEAM LEE uploaded the latest version of manifest.json file
