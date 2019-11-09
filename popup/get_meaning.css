@@ -34,7 +34,7 @@ input {
 	border-radius: 4px;
 }
 
-//CSS for button, so that they are consistent with the original ui
+/*CSS for button, so that they are consistent with the original ui*/
 button {
 	cursor:pointer;
 	background: #dcb874;
