@@ -1,4 +1,5 @@
 var subButton = document.getElementById("sub-button");
+//Buttons are declared and their values will be retrieve according to their assigned id
 const wikiButton = document.getElementById("wiki-button");
 const ytbButton = document.getElementById("ytb-button");
 const tslButton = document.getElementById("tsl-button");
@@ -15,6 +16,8 @@ document.getElementById("input-meaning")
 
 /* Fetches the meaning when button is CLICKED */
 subButton.addEventListener("click", fetch_dictionary, false);
+
+//When the button is clicked execute the assigned function
 wikiButton.addEventListener("click", getwiki, false);
 ytbButton.addEventListener("click", getytb, false);
 tslButton.addEventListener("click", gettsl, false);
@@ -257,6 +260,7 @@ function fetch_dictionary(new_word) {
 	xmlhttp.send();
 }
 
+//Function for retrieving the wiki link
 function getwiki(){
 	var urllink ="https://en.wikipedia.org/wiki/";
 	var term =document.getElementById("input-meaning");
@@ -266,6 +270,7 @@ function getwiki(){
 	window.open(fullurl);
 }
 
+//Function for retrieving the youtube link
 function getytb(){
 	var urllink ="https://www.youtube.com/results?search_query=";
 	var term =document.getElementById("input-meaning");
@@ -275,6 +280,7 @@ function getytb(){
 	window.open(fullurl);
 }
 
+//Function for retrieving the google translate link
 function gettsl(){
 	var urllink ="https://translate.google.com/?hl=zh-TW#view=home&op=translate&sl=en&tl=zh-TW&text=";
 	var term =document.getElementById("input-meaning");
