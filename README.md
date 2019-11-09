@@ -21,3 +21,5 @@
 08/11/2019 - LEE THEAM LEE uploaded a newer version of get_meaning.html
 
 08/11/2019 - LEE THEAM LEE uploaded the latest version of manifest.json file
+
+09/11/2019 - LEE THEAM LEE updated the comments for get_meaning.js
