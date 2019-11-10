@@ -59,6 +59,19 @@ function storeNote(title, body) {
   }, onError);
 }
 
+/* function to get the current time */
+
+function getTime(){
+  var dt = new Date();
+  var hours = dt.getHours() ; // gives the value in 24 hours format
+  var AmOrPm = hours >= 12 ? 'pm' : 'am';
+  hours = (hours % 12) || 12;
+  var minutes = dt.getMinutes() ;
+  var finalTime = hours + ":" + minutes + AmOrPm; 
+  var date = dt.getDate()+'/'+(dt.getMonth()+1)+'/'+dt.getFullYear();
+  return finalTime + ' ' + date;
+}
+
 /* function to display a note in the note box */
 
 function displayNote(title, body) {
