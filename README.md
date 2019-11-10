@@ -35,3 +35,5 @@
 10/11/2019 - LEE THEAM LEE uploaded lookup.txt
 
 10/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.js
+
+10/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.html
