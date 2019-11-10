@@ -35,3 +35,5 @@
 10/11/2019 - LEE THEAM LEE uploaded lookup.txt
 
 11/11/2019 - LEE THEAM LEE uploaded get_meaning_cheerio.js
+
+11/11/2019 - LEE THEAM LEE deleted LICENSE.txt
