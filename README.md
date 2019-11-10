@@ -23,3 +23,11 @@
 08/11/2019 - LEE THEAM LEE uploaded the latest version of manifest.json file
 
 09/11/2019 - LEE THEAM LEE updated the comments for get_meaning.js
+
+10/11/2019 - LEE THEAM LEE uploaded popup-48.png.
+
+10/11/2019 - LEE THEAM LEE uploaded popup-96.png.
+
+10/11/2019 - LEE THEAM LEE uploaded PorterStemmer1980.js
+
+10/11/2019 - LEE THEAM LEE uploaded lookup.txt
