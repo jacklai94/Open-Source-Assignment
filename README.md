@@ -20,6 +20,16 @@
 
 07/11/2019 - Tan Wei Sern created this branch.
 
+08/11/2019 - Tan Wei Sern uploaded quicknote folder.
+
+08/11/2019 - Tan Wei Sern uploaded icons folder.
+
+08/11/2019 - Tan Wei Sern uploaded popup folder.
+
+08/11/2019 - Tan Wei Sern uploaded manifest.json file
+
+08/11/2019 - Tan Wei Sern uploaded README.md
+
 08/11/2019 - LEE THEAM LEE deleted get_meaning.html
 
 08/11/2019 - LEE THEAM LEE uploaded a newer version of get_meaning.html
