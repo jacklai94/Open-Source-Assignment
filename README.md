@@ -13,3 +13,5 @@
 08/11/2019 - Tan Wei Sern uploaded manifest.json file
 
 08/11/2019 - Tan Wei Sern uploaded README.md
+
+10/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.js
