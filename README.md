@@ -16,6 +16,10 @@
 
 07/11/2019 - LEE THEAM LEE uploaded manifest.json file 
 
+07/11/2019 - Tan Wei Sern created this repository.
+
+07/11/2019 - Tan Wei Sern created this branch.
+
 08/11/2019 - LEE THEAM LEE deleted get_meaning.html
 
 08/11/2019 - LEE THEAM LEE uploaded a newer version of get_meaning.html
