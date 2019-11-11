@@ -17,3 +17,5 @@
 10/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.js
 
 10/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.html
+
+11/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.css
