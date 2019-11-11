@@ -39,3 +39,5 @@
 11/11/2019 - LEE THEAM LEE deleted LICENSE.txt
 
 11/11/2019 - LEE THEAM LEE uploaded a newer version of LICENSE.txt
+
+12/11/2019 - LEE THEAM LEE Uploaded a newer version of dictionary.txt
