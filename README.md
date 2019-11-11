@@ -65,5 +65,6 @@
 12/11/2019 - LEE THEAM LEE deleted dictionary.txt
 
 12/11/2019 - LEE THEAM LEE Uploaded a newer version of dictionary.txt
- 
+
+12/11/2019 - LEE THEAM LEE deleted BSD-License
 
