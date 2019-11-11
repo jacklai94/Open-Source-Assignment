@@ -41,3 +41,7 @@
 11/11/2019 - LEE THEAM LEE uploaded a newer version of LICENSE.txt
 
 12/11/2019 - LEE THEAM LEE Uploaded a newer version of dictionary.txt
+
+12/11/2019 - LEE THEAM LEE Uploaded a newer version of BSD-License
+
+12/11/2019 - LEE THEAM LEE Uploaded a newer version of BSD-License
