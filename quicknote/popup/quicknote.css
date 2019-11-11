@@ -5,7 +5,7 @@
 }
 
 html {
-  font-family: sans-serif;
+  font-family: 'Arial';
   font-size: 10px;
   background: rgb(240,240,240);
   height: 300px;
@@ -101,10 +101,14 @@ textarea {
 
 .note {
   padding: 2px;
+  border-top: 1px solid black;
 }
 
 .delete {
-  float: right;
+  position: relative;
+  top: -100px;
+  right: 0px;
+  left: 250px;
 }
 
 p {
@@ -117,4 +121,7 @@ p {
 
 .update {
   float: right;
+}
+.menu-item-depth-3 {
+  border-bottom:1px solid blue;
 }
