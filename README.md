@@ -55,3 +55,5 @@
 11/11/2019 - LEE THEAM LEE deleted LICENSE.txt
 
 11/11/2019 - LEE THEAM LEE uploaded a newer version of LICENSE.txt
+
+11/11/2019 - Tan Wei Sern uploaded a newer version of quicknote.css
