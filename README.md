@@ -71,3 +71,6 @@
 12/11/2019 - LEE THEAM LEE Uploaded a newer version of BSD-License
 
 12/11/2019 - LEE THEAM LEE deleted LOOKUP_LICENSE.txt
+
+12/11/2019 - LEE THEAM LEE Uploaded a Newer version of LOOKUP_LICENSE.txt
+
