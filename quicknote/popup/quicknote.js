@@ -8,7 +8,7 @@ var noteContainer = document.querySelector('.note-container');
 
 var clearBtn = document.querySelector('.clear');
 var addBtn = document.querySelector('.add');
-
+var timedate = getTime();
 /*  add event listeners to buttons */
 
 addBtn.addEventListener('click', addNote);
@@ -81,6 +81,7 @@ function displayNote(title, body) {
   var noteDisplay = document.createElement('div');
   var noteH = document.createElement('h2');
   var notePara = document.createElement('p');
+  var timebox = document.createElement('p');
   var deleteBtn = document.createElement('button');
   var clearFix = document.createElement('div');
 
@@ -88,6 +89,7 @@ function displayNote(title, body) {
 
   noteH.textContent = title;
   notePara.textContent = body;
+  timebox.textContent = timedate;
   deleteBtn.setAttribute('class','delete');
   deleteBtn.textContent = 'Delete note';
   clearFix.setAttribute('class','clearfix');
